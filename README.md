@@ -35,7 +35,7 @@ ordered and digging for information on the lightcrafter2000 board espcially
 on the LEDs they use. see if they have enough UV in them, and if not, what the LED package they use and how to replace it with a ~400nm one.
 
 --update--
-just had a chat with @polyfractal, pointed me to sam zellof new post on his crazy instrumntation. he also uses the aaxa pico hd ![link](http://sam.zeloof.xyz/maskless-photolithography/)  with ebay uv leds.. yes
+just had a chat with @polyfractal, pointed me to sam zellof new post on his crazy instrumntation. he also uses the aaxa pico hd! [link](http://sam.zeloof.xyz/maskless-photolithography/)  with ebay uv leds.. yes
 
 ill cancel that TI order...
 
