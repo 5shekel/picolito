@@ -25,8 +25,8 @@ waiting for night to come so i can do the lithography i read/tested a bit on the
 #### 4/4/2018
 during a [teardown stream](https://photos.app.goo.gl/9uD4XJf9v1d5l4xY2) with [eladorbach](http://eladorbach.blogspot.com), Elad pointed me to TI "LightCrafter" evaluation boards for DLP pico projectors.  
 
-lightcrafter 2000 EVM- 100$  ([link](https://archive.is/dMBDm))
-beagleboard green/black - 60-90$ ([pic](https://i.imgur.com/sUgdQur.png))
+* lightcrafter 2000 EVM- 100$  ([link](https://archive.is/dMBDm))
+* beagleboard green/black - 60-90$ ([pic](https://i.imgur.com/sUgdQur.png))
 
 
 just had a chat with @polyfractal, pointed me to sam zellof new post on his crazy instrumntation. he also uses the aaxa pico hd! [link](http://sam.zeloof.xyz/maskless-photolithography/)  with ebay uv leds.. yes 
