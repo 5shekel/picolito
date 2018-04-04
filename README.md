@@ -28,6 +28,10 @@ during a [teardown stream](https://photos.app.goo.gl/9uD4XJf9v1d5l4xY2) with [el
 lightcrafter 2000 EVM- 100$  ([link](https://archive.is/dMBDm))
 beagleboard green/black - 60-90$ ([pic](https://i.imgur.com/sUgdQur.png))
 
+
+just had a chat with @polyfractal, pointed me to sam zellof new post on his crazy instrumntation. he also uses the aaxa pico hd! [link](http://sam.zeloof.xyz/maskless-photolithography/)  with ebay uv leds.. yes 
+<s>ill cancel that TI order...</s>
+
 according to lightcrafter2000 [datasheet](http://www.ti.com/lit/ug/dlpu049c/dlpu049c.pdf) it uses following light sources
 
 * LE BA Q6WM - blue, red LED
@@ -44,16 +48,14 @@ package
 
 ![](https://i.imgur.com/74W3fH8l.png)
 
+
+
 #### whats next
 giving up on full disassembly of the LCoS projector for now. 
 
 ordered and digging for information on the lightcrafter2000 board espcially
 on the LEDs they use. see if they have enough UV in them, and if not, what the LED package they use and how to replace it with a ~400nm one.
 
---update--
-just had a chat with @polyfractal, pointed me to sam zellof new post on his crazy instrumntation. he also uses the aaxa pico hd! [link](http://sam.zeloof.xyz/maskless-photolithography/)  with ebay uv leds.. yes
-
-ill cancel that TI order...
 
 ### Links
 
