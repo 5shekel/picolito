@@ -62,13 +62,16 @@ on the LEDs they use. see if they have enough UV in them, and if not, what the L
 
 * [teardown of optical assembly](https://polyfractal.com/post/light-engine-teardown-redux/) by @polyfractal  - came across this mid-work, lots of [info](https://polyfractal.com/categories/makerfoundry/) there on maskless photolit, trying to contact him see if he continued his efforts. but he has the same aaxa pico HD LCoS i used, which is not so hot for this.
 
-* [A maskless photolithographic prototyping system using a low-cost
-consumer projector and a microscope](http://pages.pomona.edu/~dmt04747/Pubs/MasklessLithoAJP.pdf) - 2004 paper on microscope maskless photolit 
-
 * [How are pico-projectors built? How do I build one?](https://www.quora.com/How-are-pico-projectors-built-How-do-I-build-one) - exhaustive quora answer, composed in 2015 during the hay day of the google glasses.  
 
 * [Projection displays: Intro and background](https://interaxn.quora.com/Projection-displays-Intro-and-background) - more for the same auther of that crazy qoura answer
 * [Projection displays: Core technology](https://interaxn.quora.com/Projection-displays-Core-technology) - and more
+
+### maskless links
+* [A maskless photolithographic prototyping system using a low-cost
+consumer projector and a microscope](http://pages.pomona.edu/~dmt04747/Pubs/MasklessLithoAJP.pdf) - 2004 paper on microscope maskless photolit 
+
+[Micro and Nanofabrication (MEMS) edX video course](https://www.edx.org/course/micro-nanofabrication-mems-epflx-memsx-0) - free course in a university grade fab lab
 
 ### rANDOM LNKS
 [Measuring of the Temperature Profile during the Reflow Solder Process](https://dammedia.osram.info/media/resource/hires/osram-dam-2496666/Measuring%20of%20the%20Temperature%20Profile%20during%20the%20Reflow%20Solder%20Process.pdf)
