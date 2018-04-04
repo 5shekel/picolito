@@ -28,6 +28,22 @@ during a [teardown stream](https://photos.app.goo.gl/9uD4XJf9v1d5l4xY2) with [el
 lightcrafter 2000 EVM- 100$  ([link](https://archive.is/dMBDm))
 beagleboard green/black - 60-90$ ([pic](https://i.imgur.com/sUgdQur.png))
 
+according to lightcrafter2000 [datasheet](http://www.ti.com/lit/ug/dlpu049c/dlpu049c.pdf) it uses following light sources
+
+* LE BA Q6WM - blue, red LED
+** Color: blue (460 nm); amber (617 nm) [osram](https://www.osram.com/os/ecat/OSRAM%20OSTAR%C2%AE%20Projection%20Compact%20LE%20BA%20Q6WM/com/en/class_pim_web_catalog_103489/global/prd_pim_device_2191190/), [digikey](https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/LE-BA-Q6WM-1T3T-CE-HZJY-23-350-R18-ZC/LEBAQ6WM-1T3T-CE-HZJY-23-350-R18-ZC-ND/6709762)
+
+spectrum
+![](https://i.imgur.com/yN66bDyl.png)
+
+package
+![](https://i.imgur.com/9Fakw4cl.png)
+
+* LCG H9RM - green LED
+** Color: (515 nm) [osram](https://www.osram.com/os/ecat/OSRAM%20OSTAR%C2%AE%20Projection%20Cube%20LCG%20H9RM/com/en/class_pim_web_catalog_103489/global/prd_pim_device_2190826/),[digikey](https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/LCG-H9RM-KZLZ-1/LCGH9RM-KZLZ-1-ND/4834206)
+
+![](https://i.imgur.com/74W3fH8l.png)
+
 #### whats next
 giving up on full disassembly of the LCoS projector for now. 
 
