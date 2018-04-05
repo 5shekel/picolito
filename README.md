@@ -38,16 +38,16 @@ according to lightcrafter2000 [datasheet](http://www.ti.com/lit/ug/dlpu049c/dlpu
 ** Color: blue (460 nm); amber (617 nm) [osram](https://www.osram.com/os/ecat/OSRAM%20OSTAR%C2%AE%20Projection%20Compact%20LE%20BA%20Q6WM/com/en/class_pim_web_catalog_103489/global/prd_pim_device_2191190/), [digikey](https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/LE-BA-Q6WM-1T3T-CE-HZJY-23-350-R18-ZC/LEBAQ6WM-1T3T-CE-HZJY-23-350-R18-ZC-ND/6709762)
 
 spectrum  
-![](https://i.imgur.com/yN66bDyl.png)
+[![](https://i.imgur.com/yN66bDym.png)](https://i.imgur.com/yN66bDyl.png)
 
 package  
-![](https://i.imgur.com/9Fakw4cl.png)
+[![](https://i.imgur.com/9Fakw4cm.png)](https://i.imgur.com/9Fakw4cl.png)
 
 * LCG H9RM - green LED
 ** Color: (515 nm) [osram](https://www.osram.com/os/ecat/OSRAM%20OSTAR%C2%AE%20Projection%20Cube%20LCG%20H9RM/com/en/class_pim_web_catalog_103489/global/prd_pim_device_2190826/),[digikey](https://www.digikey.com/product-detail/en/osram-opto-semiconductors-inc/LCG-H9RM-KZLZ-1/LCGH9RM-KZLZ-1-ND/4834206)
 
 spectrum  
-![](https://i.imgur.com/74W3fH8l.png)
+[![](https://i.imgur.com/74W3fH8m.png)](https://i.imgur.com/74W3fH8l.png)
 
 
 
