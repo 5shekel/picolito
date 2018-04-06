@@ -1,4 +1,5 @@
 hey, ill use this here space as a log for my build.
+this is the link to a static version > https://5shekel.github.io/picolito/
 
 ### intro
 so after oogeling at [samZellof](https://www.youtube.com/watch?v=TrmqZ0hgAXk) and [jeriellsworth](https://www.youtube.com/watch?v=w_znRopGtbE) work on home semiconductor chip fabs i wanted some of that. currntly not intrested in micro work, i want to use some of the ideas in idiot.io work. mostly 10mil+ board designs
