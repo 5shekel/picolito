@@ -50,6 +50,10 @@ package
 spectrum  
 [![](https://i.imgur.com/74W3fH8m.png)](https://i.imgur.com/74W3fH8l.png)
 
+#### 4/15/2018
+got the DLP lightcrafter 2000 EVBOARD + beagleboard green [https://www2.mouser.com/ProductDetail/713-102010048 mouser]
+
+but its not compatible... need to desolder a dual stack usb connector, but first waitin for response from TI
 
 
 #### whats next
